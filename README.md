@@ -1,6 +1,6 @@
 # Italy-Visa-Experience
 
-This is my visa experience for Long Term D-Type Employment Visa Process along with Declaration of Value. I later obtained the EU Blue card once I reached Italy through this visa.
+This is my visa experience for Long Term D-Type Employment Visa Process along with Declaration of Value. I later obtained the EU Blue card once I reached Italy through this visa. My nulla osta was for the EU Blue card and in such cases, the long term visa is not very valuable or meaningful.
 
 # Application process.
 
@@ -51,9 +51,11 @@ You need to submit the DOV to your employer, who can then submit to the SUI or t
 
 ## C. Submitting the Visa Application.
 
-Look at the VFS website and carefully follow the instructions for applying to the embassy. You will have specific requirements for photos. You will also need the employer's ID's copy for this process. 
+Look at the VFS website and carefully follow the instructions for applying to the embassy. You will have specific requirements for photos. You will also need the employer's ID's copy for this process. Make sure the Nulla osta is stamped and signed by the SUI. 
+
+**Time taken :** If you are applying for an EU Blue card, and your nulla osta is for your EU Blue Card as well, your visa will be issued very fast. Mine was issued in less than 48 hours.
 
 
-### Exceptional methods.
+### Exceptional cases.
 
 If embassy ever asks you to submit a non-educational document quickly and they need apostillation for it, do not go for the state MHRD attestation because it can take time. Instead ask the apostillation agency to get attestation from Delhi's SDM - Sub Divisional Magistrate. This is a backhand procedure and the document will get both attestation and apostillation in this manner. Without SDM or MHRD attestation, MEA does not apostille a document and so, this SDM method helps cut time and get it done quickly. It takes the same 2 days and you can submit it to the embassy. The documents that can be treated like this are letters, declaration, sponsorship letters, scholarship documents, etc.
