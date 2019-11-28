@@ -59,11 +59,3 @@ Look at the VFS website and carefully follow the instructions for applying to th
 ### Exceptional cases.
 
 If embassy ever asks you to submit a non-educational document quickly and they need apostillation for it, do not go for the state MHRD attestation because it can take time. Instead ask the apostillation agency to get attestation from Delhi's SDM - Sub Divisional Magistrate. This is a backhand procedure and the document will get both attestation and apostillation in this manner. Without SDM or MHRD attestation, MEA does not apostille a document and so, this SDM method helps cut time and get it done quickly. It takes the same 2 days and you can submit it to the embassy. The documents that can be treated like this are letters, declaration, sponsorship letters, scholarship documents, etc.
-
-
-```diff
-+ Add something
-- Removed something
-
-
-```
